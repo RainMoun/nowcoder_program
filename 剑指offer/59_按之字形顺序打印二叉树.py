@@ -35,6 +35,7 @@ class Solution:
             lst_copy = []
         return result
 
+
 p1 = TreeNode(8)
 p2 = TreeNode(6)
 p3 = TreeNode(10)
